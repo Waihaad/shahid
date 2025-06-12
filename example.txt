@@ -1,1 +1,2 @@
 hello before clonning
+hi after clonning
